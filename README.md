@@ -14,7 +14,13 @@ required), and shows the annotated result in a window.
 Test flights with a **DJI Mini 2**, covering different altitudes (15 m, 30 m, and 50 m) with both
 oblique and nadir (straight-down) camera angles:
 
-https://github.com/NickPoint/person_detection/raw/main/Drone%20Feed%202026-03-30%2016-04-34.mp4
+### Screen recording of test flight
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=oqyZ10d_LSE">
+    <img src="https://img.youtube.com/vi/oqyZ10d_LSE/0.jpg" alt="Watch the video" width="1200" />
+  </a>
+</p>
 
 ### Drone specs (DJI Mini 2)
 
