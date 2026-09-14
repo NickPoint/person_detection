@@ -1,0 +1,7 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Drone video captures (large; keep locally)
+*.mp4
